@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="myServlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/myServlet</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ee" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
